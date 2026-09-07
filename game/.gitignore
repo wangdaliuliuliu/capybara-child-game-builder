@@ -1,0 +1,6 @@
+# Runtime data
+data/accounts.json
+
+# Local dependencies and logs
+node_modules/
+*.log

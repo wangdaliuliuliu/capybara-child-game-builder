@@ -7,8 +7,8 @@ description: Build or adapt the Capybara Bubble Tea Catcher for a child by wirin
 
 ## 作用范围
 
-这个 Skill 只服务于当前这一款“水豚奶茶接物游戏”（项目目录通常为
-`capybara-bubble-tea-catcher`）。它帮助把一个或多个孩子的昵称、登录、角色素材、
+这个 Skill 只服务于当前这一款“水豚奶茶接物游戏”（原始项目目录通常为
+`capybara-bubble-tea-catcher`；本仓库附带的可运行源码位于 `game/`）。它帮助把一个或多个孩子的昵称、登录、角色素材、
 角色动作、召唤技能和技能特效接入这款游戏。不要把它扩展成跑酷、躲障碍、卡牌或
 其他游戏的通用框架；遇到其他游戏，应停下来说明不属于本 Skill 的范围。
 
@@ -37,7 +37,7 @@ description: Build or adapt the Capybara Bubble Tea Catcher for a child by wirin
 
 ### 1. 识别当前项目和改动范围
 
-先确认工作目录确实是水豚奶茶接物游戏，并查看 `index.html`、`script.js`、
+先确认工作目录确实是水豚奶茶接物游戏；如果使用本仓库，先进入 `game/`，再查看 `index.html`、`script.js`、
 `style.css`、`server.js`、`assets/` 和 `data/`。区分代码、素材和运行时数据：
 运行时账号/排行榜数据不能当作 Skill 配置提交。
 

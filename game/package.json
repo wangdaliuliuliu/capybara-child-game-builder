@@ -1,0 +1,13 @@
+{
+  "name": "capybara-bubble-tea-catcher",
+  "version": "0.2.0",
+  "private": true,
+  "description": "水豚奶茶接接乐：带简单登录和最高分排行榜的网页小游戏",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

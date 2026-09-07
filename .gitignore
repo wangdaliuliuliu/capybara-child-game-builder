@@ -1,0 +1,7 @@
+# Skill repository metadata
+.git/
+
+# Bundled game runtime data and local dependencies
+game/data/accounts.json
+game/node_modules/
+game/*.log

@@ -5,7 +5,7 @@
 
 ## 项目识别
 
-- 项目：`capybara-bubble-tea-catcher`
+- 项目：`capybara-bubble-tea-catcher`（本仓库中的源码位于 `game/`）
 - 入口：`index.html`
 - 游戏逻辑和助手数据：`script.js`
 - 样式和动画：`style.css`

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capybara Child Game Builder"
+  short_description: "Build child roles, skills, and animations for the Capybara Bubble Tea Catcher game"
+  default_prompt: "Use $capybara-child-game-builder to connect a child's nickname, character art, animation, and helper skill to this Capybara Bubble Tea Catcher game."
